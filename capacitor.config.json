@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AMIA_ASISTENT",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

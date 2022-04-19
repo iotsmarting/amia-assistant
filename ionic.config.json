@@ -1,0 +1,8 @@
+{
+  "name": "AMIA_ASISTENT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f6f69f23"
+}
